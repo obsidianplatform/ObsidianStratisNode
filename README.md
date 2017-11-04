@@ -10,10 +10,8 @@
 [6]: https://travis-ci.org/stratisproject/StratisBitcoinFullNode
 
 
-Stratis Bitcoin
+The Obsidian full blockchain node in C# - based on the StratisBitcoinFullNode by Stratis.
 ===============
-
-https://stratisplatform.com
 
 Bitcoin Implementation in C#
 ----------------------------
